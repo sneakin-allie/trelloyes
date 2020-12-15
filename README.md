@@ -1,4 +1,5 @@
 Assignment
+
 You are in a professional web development team as a React engineer. You're working on an app called Trelloyes. (It's very similar to an app you may be aware of called Trello.)
 
 The designers on the team have been working hard, and have put together a semantic HTML document for you as well as some styles. Your task is to use the HTML document as a reference for creating a React application that renders the same markup. The team has agreed that there are to be 3 components and have a specification for each of them.
